@@ -1,0 +1,7 @@
+# Local environment variables
+.env
+
+# Binary outputs
+/bin/
+*.exe
+*.exe~
